@@ -1,2 +1,9 @@
 # Creating-of-cryptography-keys-using-RSA-algorithm
 Class assignment
+PUBLIC KEY CRYPTOGRAPHY
+USIU
+ISC6220
+ADVANCED CRYPTOGRAPHY
+DR.STANLEY G
+
+PUBLIC AND PRIVATE KEY GENERATION
